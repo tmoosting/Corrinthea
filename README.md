@@ -6,6 +6,7 @@ Inspired by this [procedural noise generation article](https://medium.com/inspir
 Run the following code in jupyter lab or from console: 
 
 from map_generator import generate_world, generate_image
+
 generate_image(generate_world())
 
 

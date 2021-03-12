@@ -1,7 +1,7 @@
 # Corrinthea
 
 This application procedurally generates a 2d image of a world best left undiscovered: Corrinthea
-Inspired by this procedural noise generation article, it populates a 2d array with float values that represent specific terrain types.
+Inspired by this [procedural noise generation article](https://medium.com/inspired-to-program-%E3%85%82-%D9%88-%CC%91%CC%91/procedural-generation-in-python-7b75127b2f74), it populates a 2d array with float values that represent specific terrain types.
 
 Run the following code in jupyter lab or from console: 
 
